@@ -1,4 +1,4 @@
-### Hi there 🌌
+### Hi there! 🌌
 
 - 💻 I'm studying Computer Science and Security at Auburn University.
 - 🔬 I'm currently researching Cybersecurity and AI!
