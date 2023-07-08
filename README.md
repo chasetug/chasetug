@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 🌌
+
+- 💻 I'm studying Computer Science and Security at Auburn University.
+- 🔬 I'm currently researching Cybersecurity and AI!
+- 🤖 Ask me about Discord bots
+
 
 <!--
 **chasetug/chasetug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
